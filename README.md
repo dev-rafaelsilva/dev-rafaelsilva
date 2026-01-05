@@ -32,7 +32,7 @@ Atuar como **Desenvolvedor Back-End**, contribuindo no desenvolvimento de APIs, 
 
 ### 🔹 Bancos de Dados
 - PostgreSQL
-- MySQL
+- MySQL Workbench
 
 ### 🔹 DevOps & Cloud
 - Docker

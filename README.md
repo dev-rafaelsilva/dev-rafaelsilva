@@ -24,10 +24,10 @@ Atuar como **Desenvolvedor Back-End**, contribuindo no desenvolvimento de APIs, 
 ## 🧠 Tecnologias e Ferramentas
 
 ### 🔹 Back-End
-- Java,
-- Spring Boot,
-- NodeJs,
-- NestJs,
+- Java
+- Spring Boot
+- NodeJs
+- NestJs
 - Express
 
 ### 🔹 Bancos de Dados

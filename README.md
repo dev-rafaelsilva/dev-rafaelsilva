@@ -13,7 +13,6 @@ Atuar como **Desenvolvedor Back-End**, contribuindo no desenvolvimento de APIs, 
 
 ## 🚀 Foco Atual
 - Desenvolvimento de **APIs REST e RESTful**
-- Arquitetura em camadas
 - Microsserviços
 - Documentação de APIs com **Swagger / OpenAPI**
 - Containerização com **Docker**

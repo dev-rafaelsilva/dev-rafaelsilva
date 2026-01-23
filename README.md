@@ -13,13 +13,9 @@ Atuar como **Desenvolvedor Back-End**, contribuindo no desenvolvimento de APIs, 
 
 ## 🚀 Foco Atual
 - Desenvolvimento de **APIs REST e RESTful**
-  
 - Microsserviços
-
 - Documentação de APIs com **Swagger / OpenAPI**
-
 - Containerização com **Docker**
-
 - Deploy básico em nuvem (**Azure**)
 
 ---
@@ -50,4 +46,3 @@ Atuar como **Desenvolvedor Back-End**, contribuindo no desenvolvimento de APIs, 
 
 ## 📫 Contato
 📧 Email: dev.rafaelsilva01@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/dev-rafaelsilva

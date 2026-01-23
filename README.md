@@ -35,7 +35,7 @@ Atuar como **Desenvolvedor Back-End**, contribuindo no desenvolvimento de APIs, 
 - Azure
 
 ### 🔹 Testes & Documentação
-- Insomnia
+- Insomnia / Postman
 - Swagger / OpenAPI
 
 ### 🔹 Front-End (Conhecimento Básico)

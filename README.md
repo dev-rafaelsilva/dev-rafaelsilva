@@ -16,7 +16,6 @@ Atuar como **Desenvolvedor Back-End**, contribuindo no desenvolvimento de APIs, 
 - Microsserviços
 - Documentação de APIs com **Swagger / OpenAPI**
 - Containerização com **Docker**
-- Deploy básico em nuvem (**Azure**)
 
 ---
 
@@ -33,6 +32,7 @@ Atuar como **Desenvolvedor Back-End**, contribuindo no desenvolvimento de APIs, 
 ### 🔹 DevOps & Cloud
 - Docker
 - Azure
+- AWS
 
 ### 🔹 Testes & Documentação
 - Insomnia / Postman

@@ -12,9 +12,9 @@ Atuar como **Desenvolvedor Back-End**, contribuindo no desenvolvimento de APIs, 
 ---
 
 ## 🚀 Foco Atual
-- Desenvolvimento de **APIs REST e RESTful**
+- Desenvolvimento de **APIs REST**
 - Microsserviços
-- Documentação de APIs com **Swagger / OpenAPI**
+- Documentação de APIs com **Swagger**
 - Containerização com **Docker**
 
 ---
@@ -35,12 +35,8 @@ Atuar como **Desenvolvedor Back-End**, contribuindo no desenvolvimento de APIs, 
 - AWS
 
 ### 🔹 Testes & Documentação
-- Insomnia / Postman
-- Swagger / OpenAPI
-
-### 🔹 Front-End (Conhecimento Básico)
-- ReactJs
-- NextJs
+- JUnit
+- Swagger
 
 ---
 

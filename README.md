@@ -14,6 +14,7 @@ Atuar como **Desenvolvedor Back-End**, contribuindo no desenvolvimento de APIs, 
 ## 🚀 Foco Atual
 - Desenvolvimento de **APIs REST**
 - Microsserviços
+- RabbitMQ
 - Documentação de APIs com **Swagger**
 - Containerização com **Docker**
 

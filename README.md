@@ -1,4 +1,4 @@
-# Rafael Silva — Desenvolvedor Back-End Java
+# Desenvolvedor Back-End Java
 
 Desenvolvedor Back-End focado no ecossistema Java e Spring Boot, com experiência em
 construção de APIs RESTful, microsserviços e integrações assíncronas. Cursando Análise

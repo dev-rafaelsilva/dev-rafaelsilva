@@ -1,45 +1,45 @@
-# 👋 Olá! Eu sou o Rafael Silva
+# Rafael Silva — Desenvolvedor Back-End Java
 
-💻 Desenvolvedor **Backend** em formação, apaixonado por tecnologia e construção de APIs robustas, bem estruturadas e documentadas.
-
-Atualmente curso **Análise e Desenvolvimento de Sistemas (UNIP)** e possuo formação técnica em **Desenvolvimento de Sistemas**. Tenho foco em boas práticas de programação, arquitetura em camadas e desenvolvimento de aplicações backend modernas.
-
----
-
-## 🎯 Objetivo
-Atuar como **Desenvolvedor Back-End**, contribuindo no desenvolvimento de APIs, microsserviços e soluções escaláveis, enquanto evoluo tecnicamente em ambientes profissionais.
+Desenvolvedor Back-End focado no ecossistema Java e Spring Boot, com experiência em
+construção de APIs RESTful, microsserviços e integrações assíncronas. Cursando Análise
+e Desenvolvimento de Sistemas na UNIP (conclusão 2026).
 
 ---
 
-## 🚀 Foco Atual
-- Desenvolvimento de **APIs REST**
-- Microsserviços
-- RabbitMQ
-- Documentação de APIs com **Swagger**
-- Containerização com **Docker**
+## Stack Principal
+
+**Linguagens & Frameworks**
+Java · Spring Boot · Spring Security · Spring Data JPA · Hibernate · Lombok · Flyway
+
+**Arquitetura & Integração**
+APIs REST · Microsserviços · RabbitMQ · OAuth 2.0 · JWT · WebSocket
+
+**Banco de Dados**
+PostgreSQL · MySQL
+
+**Infra & DevOps**
+Docker · Kubernetes · AWS · Git
+
+**Testes**
+JUnit · Mockito · Testcontainers
 
 ---
 
-## 🧠 Tecnologias e Ferramentas
+## Projetos
 
-### 🔹 Back-End
-- Java
-- Spring Boot
+### BackEndForge
+Plataforma inteligente de geração de projetos para devs iniciantes.
+Stack: Java 21 · Spring Boot · RabbitMQ · Spring Security · PostgreSQL · Flyway · Docker · Swagger
 
-### 🔹 Bancos de Dados
-- PostgreSQL
-- MySQL Workbench
+[→ Ver repositório](https://github.com/engrafaelsilva/BackEndForge)
 
-### 🔹 DevOps & Cloud
-- Docker
-- Azure
-- AWS
+### HubFlow
+Plataforma SaaS de produtividade com integração à API do Notion, autenticação OAuth 2.0 e JWT.
+Stack: NestJS · TypeScript · MySQL · Docker · Notion API
 
-### 🔹 Testes & Documentação
-- JUnit
-- Swagger
+[→ Ver repositório](https://github.com/engrafaelsilva/HubFlow)
 
 ---
+## Contato
 
-## 📫 Contato
-📧 Email: dev.rafaelsilva01@gmail.com  
+[LinkedIn](https://linkedin.com/in/dev-rafaelsilva) · dev.rafaelsilva01@gmail.com

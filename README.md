@@ -1,8 +1,7 @@
 # Desenvolvedor Back-End Java
 
 Desenvolvedor Back-End focado no ecossistema Java e Spring Boot, com experiência em
-construção de APIs RESTful, microsserviços e integrações assíncronas. Cursando Análise
-e Desenvolvimento de Sistemas na UNIP (conclusão 2026).
+construção de APIs RESTful, microsserviços e Docker.
 
 ---
 

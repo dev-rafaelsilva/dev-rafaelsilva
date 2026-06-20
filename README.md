@@ -1,4 +1,4 @@
-# Desenvolvedor Back-End Java
+# Desenvolvedor FullStack Java & Angular
 
 Desenvolvedor Back-End focado no ecossistema Java e Spring Boot, com experiência em
 construção de APIs RESTful, microsserviços e Docker.
@@ -8,7 +8,7 @@ construção de APIs RESTful, microsserviços e Docker.
 ## Stack Principal
 
 **Linguagens & Frameworks**
-Java · Spring Boot · Spring Security · Spring Data JPA · Hibernate · Lombok · Flyway
+Java · Angular · Spring Boot · Spring Security · Spring Data JPA · Hibernate · Lombok · Flyway
 
 **Arquitetura & Integração**
 APIs REST · Microsserviços · RabbitMQ · OAuth 2.0 · JWT · WebSocket

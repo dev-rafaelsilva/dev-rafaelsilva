@@ -17,7 +17,7 @@ APIs REST · Microsserviços · RabbitMQ · OAuth 2.0 · JWT · WebSocket
 PostgreSQL · MySQL
 
 **Infra & DevOps**
-Docker · Kubernetes · AWS · Git
+Docker · Kubernetes · Git
 
 **Testes**
 JUnit · Mockito · Testcontainers

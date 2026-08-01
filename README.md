@@ -24,19 +24,24 @@ JUnit · Mockito · Testcontainers
 
 ---
 
-## Projetos
+## Ferramentas
+**IDEs & Editores**
+IntelliJ IDEA · VS Code
 
-### BackEndForge
-Plataforma inteligente de geração de projetos para devs iniciantes.
-Stack: Java 21 · Spring Boot · RabbitMQ · Spring Security · PostgreSQL · Flyway · Docker · Swagger
+**API & Documentação**
+Postman · Insomnia · Swagger/OpenAPI
 
-[→ Ver repositório](https://github.com/engrafaelsilva/BackEndForge)
+**Banco de Dados**
+DBeaver · pgAdmin
 
-### HubFlow
-Plataforma SaaS de produtividade com integração à API do Notion, autenticação OAuth 2.0 e JWT.
-Stack: NestJS · TypeScript · MySQL · Docker · Notion API
+**Build & Dependências**
+Maven · Gradle
 
-[→ Ver repositório](https://github.com/engrafaelsilva/HubFlow)
+**Versionamento & CI/CD**
+Git · GitHub Actions
+
+**Containers & Ambiente**
+Docker · Docker Compose · Testcontainers
 
 ---
 ## Contato

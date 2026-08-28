@@ -7,40 +7,40 @@ construção de APIs RESTful, microsserviços e Docker.
 
 ## Stack Principal
 
-**Linguagens & Frameworks**
+**Linguagens & Frameworks:**
 Java · Spring Boot · Spring Security · Spring Data JPA · Hibernate · Lombok · Flyway
 
-**Arquitetura & Integração**
+**Arquitetura & Integração:**
 APIs REST · Microsserviços · RabbitMQ · OAuth 2.0 · JWT · WebSocket
 
-**Banco de Dados**
+**Banco de Dados:**
 PostgreSQL · MySQL
 
-**Infra & DevOps**
+**Infra & DevOps:**
 Docker · Git
 
-**Testes**
+**Testes:**
 JUnit · Mockito · Testcontainers
 
 ---
 
 ## Ferramentas
-**IDEs & Editores**
+**IDEs & Editores:**
 IntelliJ IDEA · VS Code
 
-**API & Documentação**
+**API & Documentação:**
 Postman · Insomnia · Swagger/OpenAPI
 
-**Banco de Dados**
+**Banco de Dados:**
 DBeaver · pgAdmin
 
-**Build & Dependências**
+**Build & Dependências:**
 Maven · Gradle
 
-**Versionamento & CI/CD**
+**Versionamento & CI/CD:**
 Git · GitHub Actions
 
-**Containers & Ambiente**
+**Containers & Ambiente:**
 Docker · Docker Compose · Testcontainers
 
 ---

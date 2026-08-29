@@ -1,6 +1,6 @@
 # Rafael Silva
 
-`Software Engineer`
+`Desenvolvedor Back-End`
 
 Desenvolvedor Back-End Java, focado em construir APIs REST e microsserviços com Spring Boot. Trabalho com autenticação e autorização (JWT, OAuth2), mensageria assíncrona com RabbitMQ e persistência em PostgreSQL/MySQL — do modelo de dados ao deploy em containers com Docker.
 

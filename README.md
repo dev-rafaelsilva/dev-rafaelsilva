@@ -1,4 +1,4 @@
-# Olá, eu sou o Rafael Silva
+# Olá, eu sou Rafael Silva
 
 `Desenvolvedor de Software Back-End · Java & Spring Boot`
 
